@@ -29,7 +29,7 @@
 
 - 🔗 **Links**
     - [GitHub](https://github.com/softsheng)
-    - [Stack Overflow](https://stackoverflow.com/users/softsheng)
+    - [Stack Overflow](https://stackoverflow.com/users/21198305/softsheng)
 
 ### Fun Fact
 
